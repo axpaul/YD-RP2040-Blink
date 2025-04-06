@@ -3,7 +3,7 @@
 This project controls the onboard WS2812B (NeoPixel) LED of the **YD-RP2040** board using the Arduino framework under PlatformIO.  
 The LED logic is encapsulated in a custom C++ driver located in `lib/NeoPixelDriver`.
 
-## Features
+## ✦ Features
 
 - Arduino (earlephilhower core) on RP2040 (YD-RP2040)
 - Controls the built-in WS2812B LED (no wiring required)
@@ -14,7 +14,7 @@ The LED logic is encapsulated in a custom C++ driver located in `lib/NeoPixelDri
 - PlatformIO project structure
 - Compatible with 16MB flash layout (1MB sketch, 15MB filesystem)
 
-## YD-RP2040 Pinout and Hardware Overview
+## ✦ YD-RP2040 Pinout and Hardware Overview
 
 The following diagrams provide a detailed overview of the **YD-RP2040** board, which is based on the Raspberry Pi RP2040 microcontroller.
 
@@ -26,11 +26,11 @@ This board includes:
 - A Type-C USB connector
 - Full SWD header for CMSIS-DAP debugging
 
-### Pinout Diagram
+### ✦ Pinout Diagram
 
 ![YD-RP2040 Pinout](docs/rp2040-yd_pinout_zl.jpg)
 
-### Hardware Identification Overview
+### ✦ Hardware Identification Overview
 
 ![YD-RP2040 Overview](docs/rp2040-yd_overview_zl.jpg)
 
